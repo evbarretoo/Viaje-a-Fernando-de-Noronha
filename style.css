@@ -6,7 +6,7 @@
 }
 
 .imagem {
-  width: 1310px;
+  width: auto;
   border-style: double;
   border-radius: 20px;
 }
